@@ -3,7 +3,7 @@
 :root {
     --bg-gray: #ddd;
     --text-gray: #4a4a4a;
-    --color-primary: #4D41C0;
+    --color-primary: #810101;
     --white: #fff;
     --text-light-gray: #aaa;
     --star-yellow: #FFBB3A;
@@ -207,7 +207,7 @@ a, a:hover {
 }
 
 .dsmovie-pagination-box button img{
-   filter: brightness(0) saturate(100%) invert(36%) sepia(47%) saturate(1094%) hue-rotate(211deg) brightness(81%) contrast(114%);
+   filter: brightness(0) saturate(100%) invert(6%) sepia(96%) saturate(7400%) hue-rotate(19deg) brightness(87%) contrast(111%);
 }
 
 
